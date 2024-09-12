@@ -1,9 +1,11 @@
-<h1 align="center">Helllooo 👋, I'm Joshua Thomas</h1>
+![new gif](https://github.com/user-attachments/assets/1271334b-8323-45a8-90b1-6057665a3181)<h1 align="center">Helllooo 👋, I'm Joshua Thomas</h1>
 <h3 align="center">A passionate Dev</h3>
 
 <!-- GIF Image -->
-![Uploading new gif.gif…]()
 
+
+
+![new gif](https://github.com/user-attachments/assets/ba201480-8e9a-4751-a53f-974cf4abc04c)
 
 <!-- Profile Views Counter -->
 <p align="left">
