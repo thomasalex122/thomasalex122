@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Dev</h3>
 
 <!-- GIF Image -->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WWt-bBPOct0AAAAi/cyberkongz-kongz.gif">
+![Uploading new gif.gif…]()
+
 
 <!-- Profile Views Counter -->
 <p align="left">
