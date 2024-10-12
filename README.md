@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomasalex122](https://github.com/thomasalex122)
 
-- 📝 I regularly write articles on [https://banehjosh.hashnode.dev/](https://banehjosh.hashnode.dev/)
+- 📝 I write articles on [https://banehjosh.hashnode.dev/](https://banehjosh.hashnode.dev/)
 
 - 📫 How to reach me **thomasjoshua466@gmail.com**
 
